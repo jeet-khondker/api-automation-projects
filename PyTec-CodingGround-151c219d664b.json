@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pytec-codingground",
+  "private_key_id": "151c219d664b10d7f2c02438627464bdf3df56d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvgpuVKGhKoxGl\nQOLwDkcbXTp6XlMh0kI8RqJseRf5tVd9R7hhHE55G5e4Wos+Y0lvKVsQ+ujk00VT\nK7yvB+ZwkuVa9y9IIt8z5lO3ashiQ1NcMzFI4Ky/FyrEy4Q52mpqHHUCusXtyw75\nD9m3nW47FP9mmqQTElCMtleV8TmzDQqMrR5vDYh3KymdoejJmjG/o1572a5DXQNd\n4eTXKhKPItljpGZlG5g/hGCwHpIf+NpobnVGoyEJP05lZCExkM7CqaSOJJGRUart\nxP0j7z/51W/w/fJfBrstY7dVR3qHo7V7FM/BYQSFAio/D9WVwW64hxgm97DRduTg\nV6MZnAIjAgMBAAECggEARlHcKE0CTDU90qpGwsvVrZ8S2QiF4l0t8JyUY0W5V3FS\n1n0v4KjIwDlP9qtAcwSw3XsCY7FEMrp7YjF57d8KczxH7MRxC0P9jfvQuwJruwMi\nmSRhsMNkM0QC/MpV9iAO1ukD8M4Ik5fyLdQt9SV8juuA0QlQh9ukrlw4h3kZFyWO\nowPqojnlO5hfXFij5cMbTpfVSxsEAUph/4wspJ1AetOeNq8uTaf/vylBLcgVXObi\n2aC5U1DIQRPUqQytkUOY2SE++RFvPmQC7dCwIDPIgCuFZcrAQHsSymkESIR9Yn5H\nhk3KkHd2k5w6SJoEUmi3OYhb/98YWu1ORfdjn2Y8wQKBgQDUjFOwVeup0xC8i5RT\nXjU1zOvLfM+TKqF35cRlpkqfU7Btm4HSA77hV6arny6SYBeZkgRi7o3gzWMADSBr\nRkBBSKLRkxQRwMDsprWp0hngqD/OMXXL+uDdPRkOXchoOUeNz6sUuJh10oV+hjTe\nOBFwJAMJt8gkpc7Z1zgb8bcukwKBgQDTY+eoavG2f3gC1X1eNuTT14tLIkpS+iyW\nHcGJ3lrY9PAyoLbgxL6ks7dohfAG4GHKumsOipp4ljefHqvjBUGYkH0GZWM10YI0\nK0walsNARusebilsnStGdRSaP+1MnhMNv/2t3r5jazr/8ut+BUoJ6BKE8iYMpeXX\nuMqTWrqIMQKBgBb7LTlNsPNlvNOGC/2PnBU7GOuhjRgObfL2xututXbQp6zSOZEp\nkoPu5Dh+N5zgAu052nuP64s46dFhmfW/XMcyQViDnJHm03VC+TVpYB7oUi3LLz9k\n2tdQ+dqRzU9nkhMFNyxAYUur/X8Wp7S3PztuyV1Nn7hGrTzkhk6PLg09AoGAasl2\nVoMn9ixwoOXefkC22jlx2ZPJ/h75dSA1DAOy2xTpXnoHyIY7VJKhHYFD3wVtAW+o\n82CbZj1kfdKNvJKEL6EWN6vyMVbUMqyItongutDYp7e433CKUv6EWOPgaasVLwYF\nDdePUEP0OyYpRrE/VL/S0yxMgmkwMgjc9RGJV5ECgYEAjDaRrEcFmY2KJD8I/5s/\n2O5OBs8RA3WrTol4BcpKtmlVaQYAFXAxlByV9Af63PWJdTQV3p3MwD/ynlLEWEg1\nez7pAdxj7FcPS019/p6s6zz0tMkN7ZW3EuJd7M3SMC+t4Cm/SHC7K+QSuMWBenBa\nuY7IST5RGFSmoEG3MpcibfE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "administrator@pytec-codingground.iam.gserviceaccount.com",
+  "client_id": "109666850084447790023",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/administrator%40pytec-codingground.iam.gserviceaccount.com"
+}
